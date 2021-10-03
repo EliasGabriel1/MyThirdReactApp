@@ -1,4 +1,4 @@
-<h1> <span> React E-ccomerce App </span> <img src="https://shields.io/badge/Alemdemarte-v1.0.0-orange"/></h1>
+<h1> <span> React E-ccomerce App </span> <img src="https://shields.io/badge/eccomerce-v1.0.0-orange"/></h1>
 
 Estava sem fazer nada no sabádo de manhã e passei o dia fazendo esse mini e-ccomerce.
 
