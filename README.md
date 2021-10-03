@@ -58,7 +58,7 @@ O Material UI fora pra reduzir o tempo estruturando Card e alguns componentes qu
 
 <h2> Em tese, para utilizar o projeto, pode ser feito o donwload pelo .zip ou com o git clone </h2>
 
-após isso pode ser feito pelo terminao, o npm i para instalar todas dependencias e npm start para iniciar o projeto
+após isso pode ser feito pelo terminal, o npm i para instalar todas dependencias e npm start para iniciar o projeto
 
 
 A página inicial do projeto é assim:
